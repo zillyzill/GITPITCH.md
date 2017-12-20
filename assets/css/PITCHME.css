@@ -18,7 +18,30 @@ body {
   width: 100%;
   box-shadow : none;
 }
+element {
 
+}
+.reveal h1 {
+
+    text-shadow: none;
+
+}
+.reveal h1 {
+
+    font-size: 2.5em;
+
+}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+
+    margin: 0 0 20px 0;
+    color: #080119;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-transform: uppercase;
+    text-shadow: none;
+    word-wrap: break-word;
 .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
