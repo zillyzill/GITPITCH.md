@@ -29,3 +29,22 @@
 #### Tampilan Home
 ![Tampilan Home]
 
+---
+
+#### Tampilan login
+![Tampilan login]
+
++++
+
+##### Tampilan menu
+![Tampilan menu]
+
+---
+
+#### Tampilan super admin
+![Tampilan super admin]
+
++++
+
+##### Tampilan CMS
+![Tampilan Info Dokter]
