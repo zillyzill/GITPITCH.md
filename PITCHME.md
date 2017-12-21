@@ -47,8 +47,8 @@
 
 +++
 
-##### Tampilan Menu
-![Tampilan Menu]
+##### Tampilan Daftar Hibah Bansos
+![Tampilan Daftra hibah bansos](assets/images/tampilan-mendaftar-hibah-bansos.png)
 
 ---
 
