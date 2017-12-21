@@ -43,7 +43,7 @@
 ---
 
 #### Tampilan Super Admin
-![Tampilan super admin]
+![Tampilan super admin](assets/images/tampilan-menu-super-admin.png)
 
 +++
 
