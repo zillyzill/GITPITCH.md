@@ -32,13 +32,13 @@
 
 ---
 
-#### Tampilan Login
-![Tampilan login]
+#### Tampilan daftar
+![Tampilan daftar](assets/images/daftar-login.png)
 
 +++
 
-##### Tampilan Admin
-![Tampilan admin]
+##### Tampilan login
+![Tampilan login]
 
 ---
 
