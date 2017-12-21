@@ -31,20 +31,40 @@
 
 ---
 
-#### Tampilan login
+#### Tampilan Login
 ![Tampilan login]
 
 +++
 
-##### Tampilan menu
-![Tampilan menu]
+##### Tampilan Admin
+![Tampilan admin]
 
 ---
 
-#### Tampilan super admin
+#### Tampilan Super Admin
 ![Tampilan super admin]
 
 +++
 
-##### Tampilan CMS
-![Tampilan Info Dokter]
+##### Tampilan Menu
+![Tampilan Menu]
+
+---
+
+#### Tampilan Proposal Hibah
+![Tampilan Proposal Hibah]
+
++++
+
+##### Tampilan Laporan
+![Tampilan Laporan]
+
+---
+
+#### Tampilan CMS
+![Tampilan CMS]
+
+---
+
+#### Tampilan Pengumuman
+![Tampilan Pengumuman]
