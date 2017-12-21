@@ -27,7 +27,8 @@
 ### Tampilan Aplikasi e-bansos
 
 #### Tampilan Home
-![Tampilan Home]
+![Tampilan Home](assets/images/tampilan-awal-ebansos.png)
+
 
 ---
 
