@@ -8,7 +8,7 @@
 
 ---
 
-### e-banso features
+### e-bansos features
 - Mudah digunakan oleh masyarakat banyak. |
 - Tampilan yang menarik. |
 - Masyarakat dapat berkonsultasi dengan admin atau super admin secara langsung. |
