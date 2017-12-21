@@ -58,7 +58,7 @@
 +++
 
 ##### Tampilan Laporan
-![Tampilan Laporan]
+![Tampilan Laporan](assets/images/tampilan-laporan.png)
 
 ---
 
