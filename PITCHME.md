@@ -53,7 +53,7 @@
 ---
 
 #### Tampilan Proposal Hibah
-![Tampilan Proposal Hibah]
+![Tampilan Proposal Hibah](assets/images/tampilan-proposal-hibah.png)
 
 +++
 
