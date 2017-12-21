@@ -38,7 +38,7 @@
 +++
 
 ##### Tampilan login
-![Tampilan login]
+![Tampilan login](assets/images/tampilan-login-ebansos.png)
 
 ---
 
