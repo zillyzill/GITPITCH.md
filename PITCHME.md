@@ -68,4 +68,4 @@
 ---
 
 #### Tampilan Pengumuman
-![Tampilan Pengumuman](assets/images/pengumuman.png)
+![Tampilan Pengumuman](assets/images/)
