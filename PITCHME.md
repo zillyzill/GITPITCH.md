@@ -63,9 +63,9 @@
 ---
 
 #### Tampilan CMS
-![Tampilan CMS]
+![Tampilan CMS](assets/images/cms.png)
 
 ---
 
 #### Tampilan Pengumuman
-![Tampilan Pengumuman]
+![Tampilan Pengumuman](assets/images/pengumuman.png)
